@@ -1,4 +1,4 @@
-# ShelfTwin Rx — Python Reference MVP
+# ShelfTwin Rx - Python Reference MVP
 
 Package-level storage-integrity evidence generator for authorised pharmaceutical QA review.
 
